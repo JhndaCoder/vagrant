@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Amit Goyal/OneDrive/Desktop/vagrant/IAC-html-server","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
